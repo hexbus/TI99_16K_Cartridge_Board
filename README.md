@@ -3,7 +3,7 @@
 ![Picture](https://github.com/hexbus/TI99_16K_Cartridge_Board/blob/main/16k%20board.png)
 
 ## Background
-This is the original 16K EPROM Cartridge board for TI-99/4A from www.hexbus.com.
+This is the original 16K EPROM Cartridge board for TI-99/4A from www.hexbus.com.  I designed it back in 2009-2010.
 
 ## Original README
 This 16K .pcb file was made with ExpressPCB (www.expresspcb.com).

@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "filename": "TI99-16K-v2a-converted.kicad_pro",
+    "version": 1
+  },
+  "net_settings": {
+    "classes": [
+      {
+        "name": "Default",
+        "clearance": 0.1524,
+        "track_width": 0.254,
+        "via_diameter": 1.4224,
+        "via_drill": 0.7366
+      }
+    ],
+    "version": 4
+  }
+}
